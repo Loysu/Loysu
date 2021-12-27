@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loysu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python3/Django3
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate with people who need a backend to their site
 - 📫 This is my mail - prohorenkopavel74@gmail.com
 
