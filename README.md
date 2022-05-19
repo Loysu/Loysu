@@ -7,9 +7,9 @@
 
 
 ### 🔧 Technologies
-![](https://img.shields.io/badge/Ubuntu-important?style=flat&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-brightgreen?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/OS-Ubuntu-important?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/IDE-PyCharm-brightgreen?style=flat&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
 -  ⚡ Django/DRF, Flask, FastAPI, AioHTTP
 -  ⚙️ Docker, Celery
 -  💾 Postgresql, Redis  
