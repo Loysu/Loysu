@@ -34,8 +34,8 @@
 
 ### 📊 Github Stats
 <a href='https://github.com/pavelprokhorenko/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelprokhorenko&&hide=css,html&layout=compact&show_icons=true&count_private=true&theme=radical", width=410>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelprokhorenko&&hide=css,html&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=radical", width=410>
 </a>
 <a href='https://github.com/pavelprokhorenko/github-stats-transparent'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavelprokhorenko&count_private=true&show_icons=true&count_private=true&theme=radical", width=420>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pavelprokhorenko&count_private=true&show_icons=true&hide_border=true&count_private=true&theme=radical", width=420>
 </a>
