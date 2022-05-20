@@ -32,7 +32,7 @@
 ![Redis](https://img.shields.io/badge/Redis-191970.svg?style=for-the-badge&logo=redis&logoColor=E74C3C)<br><br> -->
 
 
-### 📊 Github Stats
+### 📊 Github Statistics
 <a href='https://github.com/pavelprokhorenko/github-stats-transparent'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavelprokhorenko&&hide=css,html&layout=compact&show_icons=true&hide_border=true&count_private=true&theme=radical", width=410>
 </a>
