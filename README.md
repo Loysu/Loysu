@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/pavel-prokhorenko-184aba239" target="_blank" rel="nofollow"><img align="left" width="35px" src="https://img.icons8.com/nolan/344/linkedin.svg"></a>
 <a href="https://gitlab.com/pavelprokhorenko" target="_blank" rel="nofollow"><img align="left" width="35px" src="https://img.icons8.com/nolan/344/gitlab.svg"></a><br><br>
 ---
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250px"><br>
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width=350><br>
 ---
 
 
