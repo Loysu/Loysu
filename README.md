@@ -1,8 +1,8 @@
-Feel free to reach me out via email or [**LinkedIn**](https://www.linkedin.com/in/pavel-prokhorenko-184aba239/).
+Feel free to reach me out via email or [**LinkedIn**](https://www.linkedin.com/in/prokhorenko-pavel/).
 
 ## Hello! I'm Pavel Prokhorenko!
 <a href="https://t.me/pavel_prokhorenko" target="_blank" rel="nofollow"><img align="left" width="35px" src="https://img.icons8.com/nolan/344/telegram-app.svg"></a>
-<a href="https://www.linkedin.com/in/pavel-prokhorenko-184aba239" target="_blank" rel="nofollow"><img align="left" width="35px" src="https://img.icons8.com/nolan/344/linkedin.svg"></a>
+<a href="https://www.linkedin.com/in/prokhorenko-pavel/" target="_blank" rel="nofollow"><img align="left" width="35px" src="https://img.icons8.com/nolan/344/linkedin.svg"></a>
 <a href="https://gitlab.com/pavelprokhorenko" target="_blank" rel="nofollow"><img align="left" width="35px" src="https://img.icons8.com/nolan/344/gitlab.svg"></a><br><br>
 ---
 
