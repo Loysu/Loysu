@@ -14,7 +14,7 @@ I like to build things with highly loaded and distributed systems, SQL and NoSQL
 
 
 My main tech stack:
-- FastAPI, Starlette, AioHTTP 🤖
+- FastAPI, Django (DRF), Starlette, AioHTTP 🤖
 - PostgreSQL, MongoDB, AWS, Elasticsearch, Redis 💾
 - SQLAlchemy, Tortoise 💽
 - Linux, Docker 💻
